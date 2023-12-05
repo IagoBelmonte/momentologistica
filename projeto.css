@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family:font-family: 'Comic Neue', cursive;
+    
+
+
+}
+h1{
+    color: cadetblue;
+    margin-left: 16px;
+    margin-right: 50px;
+    margin-top: 10%;
+}
+h2{
+    color: darkkhaki;
+    margin-left: 16px;
+    margin-right: 50px;
+}
+h3{
+    color: lightcyan;
+    margin-left: 16px;
+    margin-right: 450px;
+}
+footer p{
+
+    padding: 10px 8px;
+    width: 90px;
+    color: darkgrey;
+    background: darkgoldenrod;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.p:hover{
+    background: darkmagenta ;
+}
